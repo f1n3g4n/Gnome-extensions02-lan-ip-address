@@ -1,0 +1,13 @@
+{
+  "name": "2 - LAN IP Address",
+  "description": "Show LAN IP Address in the Gnome panel.",
+  "uuid": "lan-ip-address-f1n3g4n@proton.me",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "version": 1,
+  "url": "https://github.com/f1n3g4n"
+}
